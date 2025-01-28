@@ -14,8 +14,6 @@
 > - Dan heb ik een de titels allemaal aangemaakt voor de homepagina
 > - Ik heb dan de the primary and secondary call to action toegevoegd.
 > - Dan heb ik alle sponsors toegevoegd.
-> - Ik heb dan sparkles afbeeldingen toegevoeg dankzij z-index.
-> - Den ben ik begonnen met een soort van carrousel maar die is nog niet af.
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
